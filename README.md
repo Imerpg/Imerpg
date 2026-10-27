@@ -1,16 +1,37 @@
-## Hi there 👋
+## Salut, moi c'est Rémi 👋
 
-<!--
-**Imerpg/Imerpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur full-stack passionné par la conception d'architectures et l'optimisation de systèmes.
+J'aime construire des outils qui automatisent, synchronisent et simplifient le quotidien.
 
-Here are some ideas to get you started:
+### 🏹 Ce sur quoi je travaille
+- Plateformes métier & interopérabilité logicielle (C# / API Revit, Laravel, Angular)
+- IoT & systèmes embarqués (Raspberry Pi, Node-RED)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack & outils
+
+**Back-end**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,php,python,rust" alt="Back-end" />
+</a>
+
+**Front-end & Design**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,figma" alt="Front-end" />
+</a>
+
+**Data & DevOps**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,aws,docker,linux,git" alt="DevOps" />
+</a>
+
+**Bonus** : Symfony · Laravel · C++ · Raspberry Pi · Node-RED · UML
+
+### 🎯 Fun facts
+- 🎮 Fan de jeux de gestion et d'optimisation (d'où ma passion pour les systèmes performants)
+- 🦀 En ce moment : j'apprends **Rust**
+
+### 📫 Me contacter
+[LinkedIn] · remiconstans11@gmail.com
