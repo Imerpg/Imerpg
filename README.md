@@ -34,4 +34,4 @@ J'aime construire des outils qui automatisent, synchronisent et simplifient le q
 - 🦀 En ce moment : j'apprends **Rust**
 
 ### 📫 Me contacter
-[LinkedIn] · remiconstans11@gmail.com
+<a href="https://www.linkedin.com/in/remi-constans/">[LinkedIn]</a> · remiconstans11@gmail.com
